@@ -1,4 +1,4 @@
-# Real-time Facial Emotion & Landmark Detection 
+# Real-time Facial Emotion & Landmark Detection
 
 Aplikasi analisis wajah secara real-time yang mampu mendeteksi wajah, 68 titik kunci (facial landmarks), dan 7 emosi dasar (marah, jijik, takut, senang, netral, sedih, terkejut) menggunakan feed langsung dari webcam.
 
