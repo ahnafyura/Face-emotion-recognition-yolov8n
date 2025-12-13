@@ -5,7 +5,7 @@ Aplikasi analisis wajah secara real-time yang mampu mendeteksi wajah, 68 titik k
 Proyek ini menggabungkan kecepatan deteksi objek dari **YOLOv8**, presisi deteksi landmark dari **dlib**, dan kekuatan analisis emosi dari **DeepFace** dalam satu alur kerja yang terintegrasi dan dioptimalkan untuk performa tinggi dengan akselerasi GPU.
 
 ---
-
+ 
 ## ✨ Fitur Utama
 
 * **Deteksi Wajah Real-time**: Menggunakan model `YOLOv8n-face` yang cepat dan akurat untuk melokalisasi wajah dalam frame video.
